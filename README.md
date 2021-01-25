@@ -10,7 +10,7 @@ Label Smoothing : **python main.py** -> **python TSNE.py**
 
 <hr>
 
-simple Label Smoothing implementation code. 完整的代码在utils里面
+simple Label Smoothing implementation code. 完整的代码在utils.py里面
 
 ```python
 
